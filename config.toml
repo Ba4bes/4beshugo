@@ -1,8 +1,9 @@
-baseurl      = "//localhost"
+baseurl      = "https://ba4bes.github.io/4beshugo/"
 title        = "4bes.nl-theHugoVersion"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
 paginate     = 10
+publishDir = "docs"
 
 [params]
   dateform        = "Jan 2, 2006"
