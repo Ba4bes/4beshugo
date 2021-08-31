@@ -1,4 +1,4 @@
-baseurl      = "https://ba4bes.github.io/4beshugo/"
+baseurl      = "https://ba4bes.github.io/4beshugo"
 title        = "4bes.nl-theHugoVersion"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
@@ -50,4 +50,4 @@ publishDir = "docs"
   [[menu.main]]
     identifier = "blog"
     name       = "Blog"
-    url        = "/posts"
+    url        = "../posts"
