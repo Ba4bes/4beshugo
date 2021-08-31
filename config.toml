@@ -40,7 +40,7 @@ publishDir = "docs"
 
     [languages.en.params.logo]
       logoText = "4bes.nl-hugo"
-      logoHomeLink = "/"
+      logoHomeLink = ""
     # or
     #
     # path = "/img/your-example-logo.svg"
@@ -50,4 +50,4 @@ publishDir = "docs"
   [[menu.main]]
     identifier = "blog"
     name       = "Blog"
-    url        = "../posts"
+    url        = "posts"
